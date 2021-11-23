@@ -1,0 +1,190 @@
+<kml xmlns:kml="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>[NACIMIENTO]Nicolas</name>
+      <description>comentario de Nicolas Fern&#225;ndez Carrizo</description>
+      <Point>
+        <coordinates>-5.848657800000001,43.36948684999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Manuel</name>
+      <description>comentario de Manuel Fern&#225;ndez Draeger</description>
+      <Point>
+        <coordinates>8.68361415,49.4057284</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Pilar</name>
+      <description>comentario de Pilar Carrizo Martinez</description>
+      <Point>
+        <coordinates>-5.918020400000001,43.55741985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Manuel</name>
+      <description>comentario de Manuel Fern&#225;ndez Delgado </description>
+      <Point>
+        <coordinates>-5.577391299999999,42.60360565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Erika</name>
+      <description>comentario de Erika Draeger Moller</description>
+      <Point>
+        <coordinates>11.54183575,48.15491075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Angel</name>
+      <description>comentario de Angel Carrizo Martinez</description>
+      <Point>
+        <coordinates>-5.918020400000001,43.55741985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Agustina</name>
+      <description>comentario de Agustina Martinez Martinez</description>
+      <Point>
+        <coordinates>-5.88322375,42.52436705</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Manuel</name>
+      <description>comentario de Manuel Fern&#225;ndez Delgado </description>
+      <Point>
+        <coordinates>-5.577391299999999,42.60360565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Erika</name>
+      <description>comentario de Erika Draeger Moller</description>
+      <Point>
+        <coordinates>10.000654,53.550341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Angel</name>
+      <description>comentario de Angel Carrizo Martinez</description>
+      <Point>
+        <coordinates>-5.918020400000001,43.55741985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Agustina</name>
+      <description>comentario de Agustina Martinez Martinez</description>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Vicente</name>
+      <description>comentario de Vicente Fern&#225;ndez Martinez</description>
+      <Point>
+        <coordinates>-5.577391299999999,42.60360565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Petronila</name>
+      <description>comentario de Petronila Delgado Moral</description>
+      <Point>
+        <coordinates>-5.577391299999999,42.60360565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Rudolf</name>
+      <description>comentario de Rudolf Draeger Murphy</description>
+      <Point>
+        <coordinates>8.736285800000001,53.1200314</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Ines</name>
+      <description>comentario de Ines Moller Moller</description>
+      <Point>
+        <coordinates>6.8143502,51.23845475</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Santiago</name>
+      <description>comentario de Santiago Carrizo Matilla</description>
+      <Point>
+        <coordinates>-5.577391299999999,42.60360565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Teresa</name>
+      <description>comentario de Teresa Matilla Capin</description>
+      <Point>
+        <coordinates>-3.67953665,40.4379543</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Manuel</name>
+      <description>comentario de Manuel Martinez Botas</description>
+      <Point>
+        <coordinates>-0.8949809,41.65169125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[NACIMIENTO]Antonia</name>
+      <description>comentario de Antonia Martinez Sanchez</description>
+      <Point>
+        <coordinates>-3.67953665,40.4379543</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Vicente</name>
+      <description>comentario de Vicente Fern&#225;ndez Martinez</description>
+      <Point>
+        <coordinates>-5.577391299999999,42.60360565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Petronila</name>
+      <description>comentario de Petronila Delgado Moral</description>
+      <Point>
+        <coordinates>-5.577391299999999,42.60360565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Rudolf</name>
+      <description>comentario de Rudolf Draeger Murphy</description>
+      <Point>
+        <coordinates>10.000654,53.550341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Ines</name>
+      <description>comentario de Ines Moller Moller</description>
+      <Point>
+        <coordinates>10.000654,53.550341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Santiago</name>
+      <description>comentario de Santiago Carrizo Matilla</description>
+      <Point>
+        <coordinates>-5.918020400000001,43.55741985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Teresa</name>
+      <description>comentario de Teresa Matilla Capin</description>
+      <Point>
+        <coordinates>-5.577391299999999,42.60360565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Manuel</name>
+      <description>comentario de Manuel Martinez Botas</description>
+      <Point>
+        <coordinates>-5.577391299999999,42.60360565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[FALLECIMIENTO]Antonia</name>
+      <description>comentario de Antonia Martinez Sanchez</description>
+      <Point>
+        <coordinates>-0.3615113,39.40778525</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
